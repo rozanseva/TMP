@@ -31,6 +31,7 @@ deactivate doc
 @enduml
 
 ```
+![image](https://github.com/rozanseva/TMP/assets/128053688/e7b94ff1-67d9-4bfd-b7fc-55004e90be11)
 
 
 Диаграмма развертывания.
@@ -51,3 +52,5 @@ tabel - Табель: Отправка на проверку
 
 @enduml
 ```
+
+![image](https://github.com/rozanseva/TMP/assets/128053688/538dc6ca-cb3a-4031-bd5a-363f916be7d9)
